@@ -1,1 +1,1 @@
-# quiz-git-githup
+# quiz-git-github
